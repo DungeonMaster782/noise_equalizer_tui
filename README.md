@@ -1,7 +1,5 @@
 # noise_equalizer_tui
 
-![Demo Screenshot](demo-img/Screenshot_20251121_234831.png)
-
 A real-time white noise generator with adjustable filters, built for Linux using ALSA and ncurses.
 
 ## Features
